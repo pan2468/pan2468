@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pan2468&layout=compact)](https://github.com/pan2468/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pan2468&layout=compact)](https://github.com/pan2468/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <br/>
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
