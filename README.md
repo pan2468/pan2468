@@ -1,6 +1,5 @@
 ### Hi there 👋
 ![Pan2468's GitHub stats](https://github-readme-stats.vercel.app/api?username=pan2468&show_icons=true)
-[![Top Langs](https://github-readme-status.vercel.app/api/top-langs/?username=USERID&layout=compact)](https://github.com/pan2468/github-readme-status)
 <br/>
 <!--
 **pan2468/pan2468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
