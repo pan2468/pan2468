@@ -1,7 +1,4 @@
 ### Hi there 👋
-![Pan2468's GitHub stats](https://github-readme-stats.vercel.app/api?username=pan2468&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pan2468&layout=compact&theme=white)](https://github.com/pan2468)
-<br/>
 ### Skill 📫 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -10,7 +7,11 @@
 <br/>
 ### IDE ⚡
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Intelij IDEA](https://img.shields.io/badge/Intelij%20IDEA-000000.svg?&style=for-the-badge&logo=Intelij%20IDEA&logoColor=white)
+![Intelij IDEA](https://img.shields.io/badge/Intelij%20IDEA-000000.svg?&style=for-the-badge&logo=Intelij%20IDEA&logoColor=white)</br>
+![Pan2468's GitHub stats](https://github-readme-stats.vercel.app/api?username=pan2468&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pan2468&layout=compact&theme=white)](https://github.com/pan2468)
+<br/>
+
 <!--
 **pan2468/pan2468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
