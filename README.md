@@ -1,4 +1,5 @@
-### 안녕하세요. 임채성 입니다. 👋
+### 안녕하세요. 주니어 백엔드 개발자 임채성 입니다. 👋
+### 개발에 즐거움이 있어 😄 하루에 1일 1커밋 운동을 하고 있습니다. 
 
 ### Skill 📫 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
