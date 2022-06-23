@@ -11,7 +11,8 @@
 <br/>
 ### Total Commits 🔭
 ![Pan2468's GitHub stats](https://github-readme-stats.vercel.app/api?username=pan2468&show_icons=true&theme=tokyonight)  
-[![Pan2468's Github stats](https://github-readme-stats.vercel.app/api?username=pan2468)](https://github.com/pan2468/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pan2468ID&layout=compact&theme=tokyonight&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **pan2468/pan2468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
