@@ -5,7 +5,7 @@
 
 
 ### 🔭 Total Commits 
-![Pan2468's GitHub stats](https://github-readme-stats.vercel.app/api?username=pan2468&show_icons=true&theme=tokyonight)  
+![Pan2468's GitHub stats](https://github-readme-stats.vercel.app/api?username=pan2468&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pan2468&layout=tokyonight)](https://github.com/pan2468/github-readme-stats)
 
 
 
