@@ -4,7 +4,7 @@
 ##### 하루에 1일 1커밋 운동을 하고 있습니다. 
 
 
-### 🔭 Total Commits 
+###  Total Commits 
 ![Pan2468's GitHub stats](https://github-readme-stats.vercel.app/api?username=pan2468&show_icons=true&theme=tokyonight)
 
 
